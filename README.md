@@ -161,7 +161,7 @@ VITE_GITHUB_CLIENT_ID=your_github_client_id
 ![Discussion]<img width="1920" height="1197" alt="Image" src="https://github.com/user-attachments/assets/d85dbc18-0da2-460b-abf2-837b73b5a802" />
 
 ### 📱 Mobile Experience
-<img src="https://via.placeholder.com/300x600?text=Mobile+Screenshot" width="300">
+![Image](https://github.com/user-attachments/assets/7247a8da-3dea-49d0-976a-3e1b059feb63)
 
 </div>
 
