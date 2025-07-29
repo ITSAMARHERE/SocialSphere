@@ -40,27 +40,27 @@ SocialSphere isn't just another forum platform—it's a **next-generation commun
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React"/>
 <br/><strong>React 18</strong><br/>
 <em>UI Library</em>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
 <br/><strong>TypeScript</strong><br/>
 <em>Type Safety</em>
 </td>
 <td align="center" width="120">
-<img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite"/>
+<img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" width="48" height="48" alt="Vite"/>
 <br/><strong>Vite</strong><br/>
 <em>Build Tool</em>
 </td>
 <td align="center" width="120">
-<img src="https://supabase.com/brand-assets/supabase-logo-icon.png" width="48" height="48" alt="Supabase"/>
+<img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="48" height="48" alt="Supabase"/>
 <br/><strong>Supabase</strong><br/>
 <em>Backend</em>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind"/>
 <br/><strong>Tailwind</strong><br/>
 <em>Styling</em>
 </td>
