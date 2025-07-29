@@ -155,10 +155,10 @@ VITE_GITHUB_CLIENT_ID=your_github_client_id
 <div align="center">
   
 ### 🏠 Homepage
-![Homepage](https://via.placeholder.com/800x400?text=Homepage+Screenshot)
+![Homepage](<img width="1920" height="1105" alt="Image" src="https://github.com/user-attachments/assets/e9d26039-85e0-41e4-bdc9-a625d8718073" />)
 
 ### 💬 Discussion Thread
-![Discussion](https://via.placeholder.com/800x400?text=Discussion+Screenshot)
+![Discussion]<img width="1920" height="1197" alt="Image" src="https://github.com/user-attachments/assets/d85dbc18-0da2-460b-abf2-837b73b5a802" />)
 
 ### 📱 Mobile Experience
 <img src="https://via.placeholder.com/300x600?text=Mobile+Screenshot" width="300">
