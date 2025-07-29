@@ -1,4 +1,4 @@
-# SOcialSphere
+# SocialSphere
 
 ## 🚀 Introduction
 
